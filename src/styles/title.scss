@@ -1,0 +1,23 @@
+.title-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 12%;
+}
+
+.divider-right {
+  height: 2px;
+  background: salmon;
+  width: 95%;
+}
+
+.divider-left {
+  height: 2px;
+  background: salmon;
+  width: 5%;
+}
